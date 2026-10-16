@@ -1,11 +1,11 @@
 {
-  "name": "blended_products",
+  "name": "Online-Store-Front-End",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/product-practice/",
+    "build": "vite build --base=/Online-Store-Front-End/",
     "preview": "vite preview"
   },
   "devDependencies": {
